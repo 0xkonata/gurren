@@ -1,0 +1,8 @@
+node_modules
+.env
+typechain
+cache
+cache-ovm
+deployments
+artifacts
+artifacts-ovm
