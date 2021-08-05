@@ -12,9 +12,10 @@ You can generate that cheap contract from factory.
 Gurren has several feature.
 
 - Gurren can fight with other Gurren.
-- Hence it has HP,MP,STR,VIT,DEF,INT,RES,DEX,AGI,LUK,Lv,EXP
+- Hence it has HP,MP,STR,VIT,DEF,INT,RES,DEX,AGI,LUK,Lv,EXP,TLM(Telomeres)
 - Anyone can feed the Spiral Power by burning ETH for the Gurren.
-- The Spiral Power increases EXP and the Gurren's Lv will be up.
+- The Spiral Power increases EXP and TLM and the Gurren's Lv will be up.
+- As time passing, TLM will be shorter. When TLM is zero, head will be sent back to the owner and Gurren will be destroyed.
 
 
 ### Lagann is a head
