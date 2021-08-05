@@ -1,5 +1,8 @@
 # Gurren
-Lagann is a NFT, Gurren is body of NFT.
+
+Lagann (the head) is a NFT, Gurren is body of NFT.
+
+![First_combine](https://user-images.githubusercontent.com/87266578/128313129-eff8efed-b928-4a1e-b36f-587610c02caf.jpeg)
 
 An L2-optimized NFT framework. Import your battle-ready NFTs to several games!
 
